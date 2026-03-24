@@ -1,0 +1,12 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+.hero {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('https://source.unsplash.com/1600x900/?earth,climate') center/cover;
+}
+.card {
+  border-radius: 15px;
+}
+.display-1 {
+  font-size: 4.5rem;
+}
